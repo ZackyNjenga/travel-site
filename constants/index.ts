@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
     {href: '/', key: 'home', label: 'Home'},
-    {href: '/', key: 'how_linking-works', label: 'How Hilink Works'},
+    {href: '/', key: 'how_gyde_works', label: 'How Gyde Works'},
     {href: '/', key: 'services', label: 'Services'},
     {href: '/', key: 'pricing', label: 'Pricing'},
     {href: '/', key: 'contact_us', label: 'Contact Us'},
@@ -28,7 +28,7 @@ export const FEATURES =[
         title: 'What is your adventure schedule?',
         icon: '/calendar.svg',
         variant: 'green',
-        description: 'You want to go on an adventure with friends. That is the best way to enjoy a holiday. We have a ton of interesting offers from HiLink. This is a large choice of camping choices around you',
+        description: 'You want to go on an adventure with friends. That is the best way to enjoy a holiday. We have a ton of interesting offers from gyde. This is a large choice of camping choices around you',
 
     },
     {
@@ -50,7 +50,7 @@ export const FOOTER_LINKS = [
     {
         title: 'Learn More',
         links: [
-            'About HiLink',
+            'About gyde',
             'Press Releases',
             'Environment',
             'Jobs',
@@ -60,7 +60,7 @@ export const FOOTER_LINKS = [
     },
     {
         title: 'Our Community',
-        links: ['Climbing', 'Hiking hilink', 'Hilink kinthill'],
+        links: ['Climbing', 'Hiking gyde', 'gyde kinthill'],
     },
 ];
 
@@ -68,7 +68,7 @@ export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
         {label: 'Admin Officer', value: '0796723162'},
-        {label: 'Email for equiries', value: 'info@hilinktours.com'}
+        {label: 'Email for enquiries', value: 'info@gydetours.com'}
     ],
 };
 
